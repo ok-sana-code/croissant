@@ -13,6 +13,9 @@ p {
 footer {
   text-align: center;
 }
+a{
+    text-decoration: underline;
+}
 
 .croissant-photo {
   max-width: 100%;
